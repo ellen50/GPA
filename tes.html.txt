@@ -3,6 +3,9 @@
 	<li> mango</li>
 	<li> pinapple</li>
 	<li> blueberry</li>
-	<li> soy milk</li>
-	
+	<li> day 1</li>
+	<li> day 2</li>
+	<li> day 3</li>
+	<li> day 4</li>
+
 </ul>
